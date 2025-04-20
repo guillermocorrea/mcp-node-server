@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "my-mcp-server": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "tsx",
+        "/home/guillermocorrea/projects/mcp-node-server/main.ts"
+      ]
+    }
+  }
+}
